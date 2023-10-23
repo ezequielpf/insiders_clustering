@@ -1,8 +1,8 @@
 # Insiders Clustering
 
-## This projets has a gol to discovery similarity people to join a loyalty probram
+## The present project aims to find significant customers for the business who make high purchases and offer them a loyalty program.
 
-#### This project was made by Meigarom Lopes.
+#### Made by Ezequiel Pelisoli Francisco.
 
 # 1. Business Problem.
 
